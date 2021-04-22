@@ -1,0 +1,19 @@
+{
+    "name": "Test",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Test",
+        "/category/asset_value_tracking/token/symbol": "TST",
+        "/category/asset_value_tracking/token/decimals": "6",
+        "/category/asset_value_tracking/token/supply": "500",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single",
+        "/category/collection/entity": true
+    }
+}
